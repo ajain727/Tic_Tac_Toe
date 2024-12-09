@@ -1,5 +1,6 @@
 # Projects
 Multiplayer Tic-Tac-Toe Game
+
 This project implements a multiplayer Tic-Tac-Toe game where two players can connect and play using a TCP socket connection. The game allows users to host or join sessions and provides a fun and interactive way to play this classic game.
 
 Features
