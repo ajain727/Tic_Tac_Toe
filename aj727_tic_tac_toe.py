@@ -45,8 +45,6 @@ def valid_move(board, move):
 # -------------------------------------- #
 # --------- MODIFY BELOW HERE ---------- #
 # Aditya Jain
-# aj727
-# 31585944
 
 
 import socket
