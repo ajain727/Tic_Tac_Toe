@@ -45,12 +45,14 @@ def valid_move(board, move):
 # -------------------------------------- #
 # --------- MODIFY BELOW HERE ---------- #
 # Aditya Jain
+# aj727
+# 31585944
 
 
 import socket
 
 def main():
-    print("Welcome to 
+    print("Welcome to tic tac toe game")
     action = input("Would you like to host or join a session? (host/join): ").strip().lower()
     player_name = input("Please provide your name: ").strip()
     
